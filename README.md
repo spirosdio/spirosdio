@@ -1,7 +1,3 @@
-Here’s an updated version of your README file, incorporating the correct publication details and adding a generic interest as requested:
-
----
-
 ### Hi there, I'm Spiros Diochnos! 👋
 
 Welcome to my GitHub profile! I'm a **Software Engineer** . I thrive on solving complex problems and am passionate about the latest advancements in technology.
