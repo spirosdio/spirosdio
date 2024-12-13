@@ -26,13 +26,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** . I thrive on solving 
 
 ---
 
-### 📊 GitHub Stats
-
-![Spiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=spirosdio&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spirosdio&layout=compact)
-
----
 
 ### 📄 Publications
 
