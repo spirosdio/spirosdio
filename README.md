@@ -1,14 +1,18 @@
+Here’s an updated version of your README file, incorporating the correct publication details and adding a generic interest as requested:
+
+---
+
 ### Hi there, I'm Spiros Diochnos! 👋
 
-Welcome to my GitHub profile! I'm a **Software Engineer** with a strong background in **Artificial Intelligence** and **Machine Learning**. I thrive on solving complex problems and am passionate about the latest advancements in technology.
+Welcome to my GitHub profile! I'm a **Software Engineer** . I thrive on solving complex problems and am passionate about the latest advancements in technology.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education**: Diploma in Electrical and Computer Engineering from the National Technical University of Athens.
+- 🎓 **Education**: Master's in Engineering in Electrical and Computer Engineering from the National Technical University of Athens.
 - 💼 **Experience**: Currently working at Tradias GmbH, focusing on innovative software solutions.
-- 🌱 **Interests**: Continuously enhancing my skills in AI/ML, web development, and contributing to open-source projects.
+- 🌱 **Interests**: Passionate about continuous learning, exploring cutting-edge technologies, and applying AI to solve real-world challenges.
 - 💬 **Languages**: Proficient in Greek and English.
 
 ---
@@ -36,14 +40,16 @@ Welcome to my GitHub profile! I'm a **Software Engineer** with a strong backgrou
 
 ### 📄 Publications
 
-- **"Learning Reliable Rules under Class Imbalance"**: Presented at the 2021 SIAM International Conference on Data Mining (SDM). [Link](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.65)
-- **"The Curse of Concentration in Robust Learning: Evasion and Poisoning Attacks from Concentration of Measure"**: Published in the Proceedings of the AAAI Conference on Artificial Intelligence, 2019. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/4380)
+- **"Using Time-Series Databases for Energy Data Infrastructures"**: Published in MDPI Energies, 2024. [Link](https://www.mdpi.com/1996-1073/17/21/5478)
 
 ---
 
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/spiros-diochnos/)
-- 📧 Email: spiros.diochnos@example.com (replace with your email)
 
 Thanks for stopping by! 😊
+
+---
+
+This version incorporates your correct publication and adds a general interest. Let me know if you'd like any further edits!
